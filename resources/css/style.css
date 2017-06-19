@@ -1,4 +1,28 @@
-<!-- CSS for Excursion -->
 body {
   background-color: black;
+  text-align: center;
+  font-family: Verdana;
+  color: white;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+.download {
+  font-size: 16px;
+  color: aquamarine;
+  text-decoration: underline;
+}
+.description {
+  font-size: 21px;
+  color: gray;
+}
+footer {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
 }
